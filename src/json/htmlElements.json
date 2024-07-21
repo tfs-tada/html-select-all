@@ -372,6 +372,18 @@
     "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/mark"
   },
   {
+    "name": "math",
+    "ja": "MathML要素",
+    "specification": "https://w3c.github.io/mathml-core/#the-top-level-math-element",
+    "mdn": "https://developer.mozilla.org/ja/docs/Web/MathML/Element/math"
+  },
+  {
+    "name": "menu",
+    "ja": "メニュー要素",
+    "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-menu-element",
+    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/menu"
+  },
+  {
     "name": "meta",
     "ja": "メタデータ要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-meta-element",
@@ -432,12 +444,6 @@
     "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/p"
   },
   {
-    "name": "param",
-    "ja": "オブジェクト引数要素",
-    "specification": "https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-param-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/param"
-  },
-  {
     "name": "picture",
     "ja": "画像要素",
     "specification": "https://html.spec.whatwg.org/multipage/embedded-content.html#the-picture-element",
@@ -472,12 +478,6 @@
     "ja": "ルビテキスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rt-element",
     "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rt"
-  },
-  {
-    "name": "rtc",
-    "ja": "ルビテキストコンテナー要素",
-    "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rtc-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rtc"
   },
   {
     "name": "ruby",
