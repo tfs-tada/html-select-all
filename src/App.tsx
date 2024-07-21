@@ -72,9 +72,6 @@ export const App = () => {
   const [selected, setSelected] = useState<string[]>([]);
   const [mode, setMode] = useState<"q" | "a" | "n">("q");
 
-  const score = selected.filter((e) =>
-    elements.some((v) => v.name === e)
-  ).length;
   const handleCheck = (e: string) => {
     if (selected.includes(e)) {
       setSelected((prev) => prev.filter((v) => v !== e));
@@ -85,6 +82,11 @@ export const App = () => {
 
   const unselectedData = elements.filter((e) => !selected.includes(e.name));
   const selectedDummy = selected.filter((e) => dummy.some((v) => v.name === e));
+  const score = Math.max(
+    selected.filter((e) => elements.some((v) => v.name === e)).length -
+      selectedDummy.length,
+    0
+  );
 
   return (
     <Box bg="#eeeeee" p={4}>
@@ -129,6 +131,9 @@ export const App = () => {
             </Button>
           )}
         </Flex>
+        <Text fontSize={["xs", "sm"]}>
+          ※実在しない要素を選択すると減点されます。
+        </Text>
         <Stack gap={4}>
           {selectData.map((e) =>
             mode === "q" ? (
@@ -154,9 +159,23 @@ export const App = () => {
           )}
           {mode === "n" && (
             <>
+              <Text
+                fontSize={["xs", "sm"]}
+                fontWeight="bold"
+                textAlign="center"
+              >
+                未選択 {unselectedData.length}個
+              </Text>
               {unselectedData.map((e) => (
                 <CheckResult key={e.name} data={e} isChecked={false} />
               ))}
+              <Text
+                fontSize={["xs", "sm"]}
+                fontWeight="bold"
+                textAlign="center"
+              >
+                非実在選択 {selectedDummy.length}個
+              </Text>
               {selectedDummy.map((e) => (
                 <CheckResult key={e} data={{ name: e }} isChecked={true} />
               ))}

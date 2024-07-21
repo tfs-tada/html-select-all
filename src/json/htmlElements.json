@@ -462,12 +462,6 @@
     "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/q"
   },
   {
-    "name": "rb",
-    "ja": "ルビベース要素",
-    "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rb-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rb"
-  },
-  {
     "name": "rp",
     "ja": "ルビの代替表示用括弧要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rp-element",
@@ -508,6 +502,12 @@
     "ja": "スクリプト要素",
     "specification": "https://html.spec.whatwg.org/multipage/scripting.html#the-script-element",
     "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/script"
+  },
+  {
+    "name": "search",
+    "ja": "一般検索要素",
+    "specification": "https://html.spec.whatwg.org/multipage/forms.html#the-search-element",
+    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/search"
   },
   {
     "name": "section",
