@@ -25,16 +25,22 @@ type Data =
   | {
       name: string;
       ja: string;
+      en: string;
       specification: string;
-      mdn: string;
+      mdnJa: string;
+      mdnEn: string;
     };
 
 const selectData: Data[] = shuffle([...dummy, ...elements]);
 
+const getI18n = (isJa: boolean, ja: string, en: string) => (isJa ? ja : en);
+
 const CheckResult = ({
+  isJa,
   isChecked,
   data,
 }: {
+  isJa: boolean;
   isChecked: boolean;
   data: Data;
 }) => (
@@ -55,12 +61,16 @@ const CheckResult = ({
     <Box height={4}>
       {"ja" in data && (
         <Flex gap={2} ml={6} mr={2} fontSize={["xs", "sm"]}>
-          <Text flexGrow={1}>{data.ja}</Text>
-          <Link href={data.mdn} isExternal textDecoration="underline">
+          <Text flexGrow={1}>{getI18n(isJa, data.ja, data.en)}</Text>
+          <Link
+            href={isJa ? data.mdnJa : data.mdnEn}
+            isExternal
+            textDecoration="underline"
+          >
             mdn
           </Link>
           <Link href={data.specification} isExternal textDecoration="underline">
-            仕様書
+            {getI18n(isJa, "仕様書", "spec")}
           </Link>
         </Flex>
       )}
@@ -71,6 +81,7 @@ const CheckResult = ({
 export const App = () => {
   const [selected, setSelected] = useState<string[]>([]);
   const [mode, setMode] = useState<"q" | "a" | "n">("q");
+  const isJa = location.pathname !== "/en";
 
   const handleCheck = (e: string) => {
     if (selected.includes(e)) {
@@ -92,7 +103,11 @@ export const App = () => {
     <Box bg="#eeeeee" p={4}>
       <Stack mx="auto" px={2} py={2} maxW={640} bg="#ffffff" gap={4}>
         <Heading as="h1" fontWeight="bold" py={[2, 4]} size={["xs", "md"]}>
-          実在するhtml要素を全部選んでください.com
+          {getI18n(
+            isJa,
+            "実在するhtml要素を全部選んでください.com",
+            "select-all-html.com"
+          )}
         </Heading>
         <Flex
           alignItems="center"
@@ -105,14 +120,24 @@ export const App = () => {
           bgColor="#eeeeeedd"
           zIndex={1}
         >
-          {mode === "q" && <Text>選択 {selected.length}/114</Text>}
-          {(mode === "a" || mode === "n") && <Text>スコア {score}/114</Text>}
+          {mode === "q" && (
+            <Text>
+              {getI18n(isJa, "選択", "Selected")}:{selected.length}/114
+            </Text>
+          )}
+          {(mode === "a" || mode === "n") && (
+            <Text>
+              {getI18n(isJa, "スコア", "Score")}:{score}/114
+            </Text>
+          )}
           <Button
             onClick={() => setMode((prev) => (prev === "q" ? "a" : "q"))}
             size={["xs", "sm"]}
             colorScheme="teal"
           >
-            {mode === "q" ? "回答する" : "選択に戻る"}
+            {mode === "q"
+              ? getI18n(isJa, "回答する", "Answer")
+              : getI18n(isJa, "選択に戻る", "Back")}
           </Button>
           {(mode === "a" || mode === "n") && (
             <Button
@@ -127,12 +152,17 @@ export const App = () => {
               variant="outline"
               colorScheme="teal"
             >
-              不正解を確認
+              {/* 不正解を確認 */}
+              {getI18n(isJa, "間違いを確認", "Check incorrect")}
             </Button>
           )}
         </Flex>
         <Text fontSize={["xs", "sm"]}>
-          ※実在しない要素を選択すると減点されます。
+          {getI18n(
+            isJa,
+            "※実在しない要素を選択すると減点されます。",
+            "* You will be penalized if you select a non-existent element."
+          )}
         </Text>
         <Stack gap={4}>
           {selectData.map((e) =>
@@ -154,6 +184,7 @@ export const App = () => {
                 key={e.name}
                 data={e}
                 isChecked={selected.includes(e.name)}
+                isJa={isJa}
               />
             ) : null
           )}
@@ -164,20 +195,33 @@ export const App = () => {
                 fontWeight="bold"
                 textAlign="center"
               >
-                未選択 {unselectedData.length}個
+                {getI18n(isJa, "未選択", "Unselected")} {unselectedData.length}
+                {getI18n(isJa, "個", "items")}
               </Text>
               {unselectedData.map((e) => (
-                <CheckResult key={e.name} data={e} isChecked={false} />
+                <CheckResult
+                  key={e.name}
+                  data={e}
+                  isChecked={false}
+                  isJa={isJa}
+                />
               ))}
               <Text
                 fontSize={["xs", "sm"]}
                 fontWeight="bold"
                 textAlign="center"
               >
-                非実在選択 {selectedDummy.length}個
+                {getI18n(isJa, "非実在選択", "Non-existent selected")}{" "}
+                {selectedDummy.length}
+                {getI18n(isJa, "個", "items")}
               </Text>
               {selectedDummy.map((e) => (
-                <CheckResult key={e} data={{ name: e }} isChecked={true} />
+                <CheckResult
+                  key={e}
+                  data={{ name: e }}
+                  isChecked={true}
+                  isJa={isJa}
+                />
               ))}
             </>
           )}
