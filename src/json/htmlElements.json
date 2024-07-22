@@ -3,684 +3,912 @@
     "name": "a",
     "ja": "アンカー要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/a"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/a",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a",
+    "en": "Anchor element"
   },
   {
     "name": "abbr",
     "ja": "略語要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/abbr"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/abbr",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr",
+    "en": "Abbreviation element"
   },
   {
     "name": "address",
     "ja": "連絡先要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-address-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/address"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/address",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address",
+    "en": "Contact Address element"
   },
   {
     "name": "area",
     "ja": "イメージマップ領域要素",
     "specification": "https://html.spec.whatwg.org/multipage/image-maps.html#the-area-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/area"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/area",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area",
+    "en": "Image Map Area element"
   },
   {
     "name": "article",
     "ja": "記事コンテンツ要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-article-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/article"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/article",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article",
+    "en": "Article Contents element"
   },
   {
     "name": "aside",
     "ja": "余談要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-aside-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/aside"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/aside",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside",
+    "en": "Aside element"
   },
   {
     "name": "audio",
     "ja": "埋め込み音声要素",
     "specification": "https://html.spec.whatwg.org/multipage/media.html#the-audio-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/audio"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/audio",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio",
+    "en": "Embed Audio element"
   },
   {
     "name": "b",
     "ja": "注目付け要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-b-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/b"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/b",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b",
+    "en": "Bring Attention To element"
   },
   {
     "name": "base",
     "ja": "文書の基底 URL 要素",
     "specification": "https://html.spec.whatwg.org/multipage/urls-and-fetching.html#the-base-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/base"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/base",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base",
+    "en": "Document Base URL element"
   },
   {
     "name": "bdi",
     "ja": "書字方向分離要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-bdi-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/bdi"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/bdi",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdi",
+    "en": "Bidirectional Isolate element"
   },
   {
     "name": "bdo",
     "ja": "双方向文字列上書き要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-bdo-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/bdo"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/bdo",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdo",
+    "en": "Bidirectional Text Override element"
   },
   {
     "name": "blockquote",
     "ja": "ブロック引用要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/blockquote"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/blockquote",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote",
+    "en": "Block Quotation element"
   },
   {
     "name": "body",
     "ja": "文書本体要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-body-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/body"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/body",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body",
+    "en": "Document Body element"
   },
   {
     "name": "br",
     "ja": "改行要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-br-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/br"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/br",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br",
+    "en": "Line Break element"
   },
   {
     "name": "button",
     "ja": "ボタン要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/button"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/button",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button",
+    "en": "Button element"
   },
   {
     "name": "canvas",
     "ja": "グラフィックキャンバス要素",
     "specification": "https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/canvas"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/canvas",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas",
+    "en": "Graphics Canvas element"
   },
   {
     "name": "caption",
     "ja": "表キャプション要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-caption-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/caption"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/caption",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption",
+    "en": "Table Caption element"
   },
   {
     "name": "cite",
     "ja": "引用元要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-cite-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/cite"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/cite",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite",
+    "en": "Citation element"
   },
   {
     "name": "code",
     "ja": "インラインコード要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/code"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/code",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code",
+    "en": "Inline Code element"
   },
   {
     "name": "col",
     "ja": "表の列要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-col-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/col"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/col",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/col",
+    "en": "Table Column element"
   },
   {
     "name": "colgroup",
     "ja": "表の列グループ要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-colgroup-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/colgroup"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/colgroup",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup",
+    "en": "Table Column Group element"
   },
   {
     "name": "data",
     "ja": "データ要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-data-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/data"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/data",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data",
+    "en": "Data element"
   },
   {
     "name": "datalist",
     "ja": "HTML データリスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-datalist-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist",
+    "en": "HTML Data List element"
   },
   {
     "name": "dd",
     "ja": "詳細説明要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-dd-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dd"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dd",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd",
+    "en": "Description Details element"
   },
   {
     "name": "del",
     "ja": "削除済みテキスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/edits.html#the-del-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/del"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/del",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del",
+    "en": "Deleted Text element"
   },
   {
     "name": "details",
     "ja": "詳細折りたたみ要素",
     "specification": "https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/details"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/details",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details",
+    "en": "Details disclosure element"
   },
   {
     "name": "dfn",
     "ja": "定義要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-dfn-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dfn"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dfn",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn",
+    "en": "Definition element"
   },
   {
     "name": "dialog",
     "ja": "ダイアログ要素",
     "specification": "https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dialog"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dialog",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog",
+    "en": "Dialog element"
   },
   {
     "name": "div",
     "ja": "コンテンツ区分要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-div-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/div"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/div",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div",
+    "en": "Content Division element"
   },
   {
     "name": "dl",
     "ja": "説明リスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dl"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dl",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl",
+    "en": "Description List element"
   },
   {
     "name": "dt",
     "ja": "説明用語要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-dt-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dt"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/dt",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt",
+    "en": "Description Term element"
   },
   {
     "name": "em",
     "ja": "強調要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/em"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/em",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em",
+    "en": "Emphasis element"
   },
   {
     "name": "embed",
     "ja": "埋め込み外部コンテンツ要素",
     "specification": "https://html.spec.whatwg.org/multipage/embedded-content.html#the-embed-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/embed"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/embed",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed",
+    "en": "Embed External Content element"
   },
   {
     "name": "fieldset",
     "ja": "フィールドセット要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-fieldset-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/fieldset"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/fieldset",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset",
+    "en": "Field Set element"
   },
   {
     "name": "figcaption",
     "ja": "図キャプション要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-figcaption-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/figcaption"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/figcaption",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption",
+    "en": "Figure Caption element"
   },
   {
     "name": "figure",
     "ja": "キャプションが付けられる図要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-figure-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/figure"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/figure",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure",
+    "en": "Figure with Optional Caption element"
   },
   {
     "name": "footer",
     "ja": "フッター要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-footer-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/footer"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/footer",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer",
+    "en": "Footer element"
   },
   {
     "name": "form",
     "ja": "フォーム要素",
     "specification": "https://html.spec.whatwg.org/multipage/forms.html#the-form-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/form"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/form",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form",
+    "en": "Form element"
   },
   {
     "name": "h1",
     "ja": "HTML の見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+    "en": "HTML Section Heading elements"
   },
   {
     "name": "h2",
     "ja": "HTML の見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+    "en": "HTML Section Heading elements"
   },
   {
     "name": "h3",
     "ja": "HTML の見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+    "en": "HTML Section Heading elements"
   },
   {
     "name": "h4",
     "ja": "HTML の見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+    "en": "HTML Section Heading elements"
   },
   {
     "name": "h5",
     "ja": "HTML の見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+    "en": "HTML Section Heading elements"
   },
   {
     "name": "h6",
     "ja": "HTML の見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/Heading_Elements",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements",
+    "en": "HTML Section Heading elements"
   },
   {
     "name": "head",
     "ja": "文書メタデータ（ヘッダー）要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-head-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/head"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/head",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head",
+    "en": "Document Metadata (Header) element"
   },
   {
     "name": "header",
     "ja": "ヘッダー要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-header-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/header"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/header",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header",
+    "en": "Header element"
   },
   {
     "name": "hgroup",
     "ja": "見出しグループ要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-hgroup-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/hgroup"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/hgroup",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup",
+    "en": "Heading Group element"
   },
   {
     "name": "hr",
     "ja": "主題区切り（水平線）要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-hr-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/hr"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/hr",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr",
+    "en": "Thematic Break element"
   },
   {
     "name": "html",
     "ja": "HTML 文書 / ルート要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-html-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/html"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/html",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html",
+    "en": "HTML Document / Root element"
   },
   {
     "name": "i",
     "ja": "慣用テキスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-i-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/i"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/i",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i",
+    "en": "Idiomatic Text element"
   },
   {
     "name": "iframe",
     "ja": "インラインフレーム要素",
     "specification": "https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/iframe"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/iframe",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe",
+    "en": "Inline Frame element"
   },
   {
     "name": "img",
     "ja": "画像埋め込み要素",
     "specification": "https://html.spec.whatwg.org/multipage/images.html#the-img-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/img"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/img",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img",
+    "en": "Image Embed element"
   },
   {
     "name": "input",
     "ja": "入力欄（フォーム入力）要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-input-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/input"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/input",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input",
+    "en": "Input (Form Input) element"
   },
   {
     "name": "ins",
     "ja": "追加テキスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/edits.html#the-ins-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ins"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ins",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins",
+    "en": "Inserted Text element"
   },
   {
     "name": "kbd",
     "ja": "キーボード入力要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-kbd-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/kbd"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/kbd",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd",
+    "en": "Keyboard Input element"
   },
   {
     "name": "label",
     "ja": "ラベル要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-label-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/label"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/label",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label",
+    "en": "Label element"
   },
   {
     "name": "legend",
     "ja": "フィールドセット凡例要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-legend-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/legend"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/legend",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend",
+    "en": "Field Set Legend element"
   },
   {
     "name": "li",
     "ja": "リスト項目要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-li-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/li"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/li",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li",
+    "en": "List Item element"
   },
   {
     "name": "link",
     "ja": "外部リソースへのリンク要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-link-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/link"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/link",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link",
+    "en": "External Resource Link element"
   },
   {
     "name": "main",
     "ja": "メイン要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-main-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/main"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/main",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main",
+    "en": "Main element"
   },
   {
     "name": "map",
     "ja": "イメージマップ要素",
     "specification": "https://html.spec.whatwg.org/multipage/image-maps.html#the-map-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/map"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/map",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map",
+    "en": "Image Map element"
   },
   {
     "name": "mark",
     "ja": "テキストマーク要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-mark-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/mark"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/mark",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark",
+    "en": "Mark Text element"
   },
   {
     "name": "math",
     "ja": "MathML要素",
     "specification": "https://w3c.github.io/mathml-core/#the-top-level-math-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/MathML/Element/math"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/MathML/Element/math",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/MathML/Element/math",
+    "en": "MathML"
   },
   {
     "name": "menu",
     "ja": "メニュー要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-menu-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/menu"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/menu",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu",
+    "en": "Menu element"
   },
   {
     "name": "meta",
     "ja": "メタデータ要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-meta-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/meta"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/meta",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta",
+    "en": "metadata element"
   },
   {
     "name": "meter",
     "ja": "HTML メーター要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-meter-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/meter"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/meter",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter",
+    "en": "HTML Meter element"
   },
   {
     "name": "nav",
     "ja": "ナビゲーションセクション要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-nav-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/nav"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/nav",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav",
+    "en": "Navigation Section element"
   },
   {
     "name": "noscript",
     "ja": "スクリプト無し要素",
     "specification": "https://html.spec.whatwg.org/multipage/scripting.html#the-noscript-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/noscript"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/noscript",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript",
+    "en": "Noscript element"
   },
   {
     "name": "object",
     "ja": "外部オブジェクト要素",
     "specification": "https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-object-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/object"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/object",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object",
+    "en": "External Object element"
   },
   {
     "name": "ol",
     "ja": "順序付きリスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-ol-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ol"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ol",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol",
+    "en": "Ordered List element"
   },
   {
     "name": "optgroup",
     "ja": "選択肢グループ要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-optgroup-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup",
+    "en": "Option Group element"
   },
   {
     "name": "option",
     "ja": "HTML 選択肢要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-option-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/option"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/option",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option",
+    "en": "HTML Option element"
   },
   {
     "name": "output",
     "ja": "出力要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-output-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/output"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/output",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/output",
+    "en": "Output element"
   },
   {
     "name": "p",
     "ja": "段落要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-p-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/p"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/p",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p",
+    "en": "Paragraph element"
   },
   {
     "name": "picture",
     "ja": "画像要素",
     "specification": "https://html.spec.whatwg.org/multipage/embedded-content.html#the-picture-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/picture"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/picture",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture",
+    "en": "Picture element"
   },
   {
     "name": "pre",
     "ja": "整形済みテキスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-pre-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/pre"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/pre",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre",
+    "en": "Preformatted Text element"
   },
   {
     "name": "progress",
     "ja": "進捗インジケーター要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-progress-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/progress"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/progress",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress",
+    "en": "Progress Indicator element"
   },
   {
     "name": "q",
     "ja": "インライン引用要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-q-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/q"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/q",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q",
+    "en": "Inline Quotation element"
   },
   {
     "name": "rp",
     "ja": "ルビの代替表示用括弧要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rp-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rp"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rp",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rp",
+    "en": "Ruby Fallback Parenthesis element"
   },
   {
     "name": "rt",
     "ja": "ルビテキスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-rt-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rt"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/rt",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rt",
+    "en": "Ruby Text element"
   },
   {
     "name": "ruby",
     "ja": "ルビ注釈要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-ruby-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ruby"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ruby",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby",
+    "en": "Ruby Annotation element"
   },
   {
     "name": "s",
     "ja": "取り消し要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-s-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/s"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/s",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s",
+    "en": "Strikethrough element"
   },
   {
     "name": "samp",
     "ja": "サンプル出力要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-samp-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/samp"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/samp",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp",
+    "en": "Sample Output element"
   },
   {
     "name": "script",
     "ja": "スクリプト要素",
     "specification": "https://html.spec.whatwg.org/multipage/scripting.html#the-script-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/script"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/script",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script",
+    "en": "Script element"
   },
   {
     "name": "search",
     "ja": "一般検索要素",
     "specification": "https://html.spec.whatwg.org/multipage/forms.html#the-search-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/search"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/search",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/search",
+    "en": "generic search element"
   },
   {
     "name": "section",
     "ja": "汎用セクション要素",
     "specification": "https://html.spec.whatwg.org/multipage/sections.html#the-section-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/section"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/section",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section",
+    "en": "Generic Section element"
   },
   {
     "name": "select",
     "ja": "HTML 選択要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/select"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/select",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select",
+    "en": "HTML Select element"
   },
   {
     "name": "slot",
     "ja": "ウェブコンポーネントのスロット要素",
     "specification": "https://html.spec.whatwg.org/multipage/scripting.html#the-slot-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/slot"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/slot",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot",
+    "en": "Web Component Slot element"
   },
   {
     "name": "small",
     "ja": "附随コメント要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-small-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/small"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/small",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small",
+    "en": "side comment element"
   },
   {
     "name": "source",
     "ja": "メディアまたは画像のソース要素",
     "specification": "https://html.spec.whatwg.org/multipage/embedded-content.html#the-source-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/source"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/source",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source",
+    "en": "Media or Image Source element"
   },
   {
     "name": "span",
     "ja": "コンテンツ区間要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-span-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/span"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/span",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span",
+    "en": "Content Span element"
   },
   {
     "name": "strong",
     "ja": "強い重要性要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-strong-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/strong"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/strong",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong",
+    "en": "Strong Importance element"
   },
   {
     "name": "style",
     "ja": "スタイル情報要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-style-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/style"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/style",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style",
+    "en": "Style Information element"
   },
   {
     "name": "sub",
     "ja": "下付き文字要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-sub-and-sup-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/sub"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/sub",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub",
+    "en": "Subscript element"
   },
   {
     "name": "summary",
     "ja": "概要明示要素",
     "specification": "https://html.spec.whatwg.org/multipage/interactive-elements.html#the-summary-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/summary"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/summary",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary",
+    "en": "Disclosure Summary element"
   },
   {
     "name": "sup",
     "ja": "上付き文字要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-sub-and-sup-elements",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/sup"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/sup",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup",
+    "en": "Superscript element"
   },
   {
     "name": "svg",
     "ja": "svg要素",
     "specification": "https://html.spec.whatwg.org/multipage/embedded-content.html#the-svg-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/SVG/Element/svg"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/SVG/Element/svg",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svg",
+    "en": "Scalable Vector Graphics"
   },
   {
     "name": "table",
     "ja": "表要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-table-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/table"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/table",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table",
+    "en": "Table element"
   },
   {
     "name": "tbody",
     "ja": "テーブル本体要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-tbody-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/tbody"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/tbody",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody",
+    "en": "Table Body element"
   },
   {
     "name": "td",
     "ja": "表データセル要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-td-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/td"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/td",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td",
+    "en": "Table Data Cell element"
   },
   {
     "name": "template",
     "ja": "コンテンツテンプレート要素",
     "specification": "https://html.spec.whatwg.org/multipage/scripting.html#the-template-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/template"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/template",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template",
+    "en": "Content Template element"
   },
   {
     "name": "textarea",
     "ja": "テキストエリア要素",
     "specification": "https://html.spec.whatwg.org/multipage/form-elements.html#the-textarea-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea",
+    "en": "Textarea element"
   },
   {
     "name": "tfoot",
     "ja": "表フッター要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-tfoot-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/tfoot"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/tfoot",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot",
+    "en": "Table Foot element"
   },
   {
     "name": "th",
     "ja": "表見出し要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-th-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/th"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/th",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th",
+    "en": "Table Header element"
   },
   {
     "name": "thead",
     "ja": "表ヘッダー要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-thead-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/thead"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/thead",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead",
+    "en": "Table Head element"
   },
   {
     "name": "time",
     "ja": "（日付）時刻要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-time-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/time"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/time",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time",
+    "en": "(Date) Time element"
   },
   {
     "name": "title",
     "ja": "文書題名要素",
     "specification": "https://html.spec.whatwg.org/multipage/semantics.html#the-title-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/title"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/title",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title",
+    "en": "Document Title element"
   },
   {
     "name": "tr",
     "ja": "表の行要素",
     "specification": "https://html.spec.whatwg.org/multipage/tables.html#the-tr-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/tr"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/tr",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr",
+    "en": "Table Row element"
   },
   {
     "name": "track",
     "ja": "埋め込みテキストトラック要素",
     "specification": "https://html.spec.whatwg.org/multipage/media.html#the-track-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/track"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/track",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track",
+    "en": "Embed Text Track element"
   },
   {
     "name": "u",
     "ja": "非言語的注釈（下線）要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-u-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/u"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/u",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u",
+    "en": "Unarticulated Annotation element"
   },
   {
     "name": "ul",
     "ja": "順序なしリスト要素",
     "specification": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-ul-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ul"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/ul",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul",
+    "en": "Unordered List element"
   },
   {
     "name": "var",
     "ja": "変数要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-var-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/var"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/var",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/var",
+    "en": "Variable element"
   },
   {
     "name": "video",
     "ja": "動画埋め込み要素",
     "specification": "https://html.spec.whatwg.org/multipage/media.html#the-video-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/video"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/video",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video",
+    "en": "Video Embed element"
   },
   {
     "name": "wbr",
     "ja": "改行可能要素",
     "specification": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-wbr-element",
-    "mdn": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/wbr"
+    "mdnJa": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/wbr",
+    "mdnEn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr",
+    "en": "Line Break Opportunity element"
   }
 ]
