@@ -81,7 +81,7 @@ const CheckResult = ({
 export const App = () => {
   const [selected, setSelected] = useState<string[]>([]);
   const [mode, setMode] = useState<"q" | "a" | "n">("q");
-  const isJa = location.pathname !== "/en";
+  const isJa = !location.pathname.endsWith("/en");
 
   const handleCheck = (e: string) => {
     if (selected.includes(e)) {
